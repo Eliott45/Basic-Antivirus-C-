@@ -2,6 +2,8 @@
 using System.Windows.Forms;
 using System.Security.Cryptography;
 using System.IO;
+using System.Linq;
+using System.Drawing;
 
 namespace Basic_Antivirus
 {
@@ -25,7 +27,18 @@ namespace Basic_Antivirus
 
         private void button1_Click(object sender, EventArgs e)
         {
+            var md5signatures = File.ReadAllLines("MD5base.txt");
+            if (md5signatures.Contains(tbMD5.Text))
+            {
+                lbStatus.Text = "Infected!";
+                lbStatus.ForeColor = Color.Red;
+            }
 
+            else
+            {
+                lbStatus.Text = "Clean!";
+                lbStatus.ForeColor = Color.Green;
+            }
         }
 
         /// <summary>
@@ -37,8 +50,14 @@ namespace Basic_Antivirus
             browse.Filter = "Textfiles | *.txt";
             if(browse.ShowDialog() == DialogResult.OK)
             {
+                tbFilePath.Text = browse.FileName;
                 tbMD5.Text = GetMD5FromFile(browse.FileName);
             }
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
