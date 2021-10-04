@@ -1,0 +1,18 @@
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\bin\Debug\net5.0-windows\Basic Antivirus.exe
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\bin\Debug\net5.0-windows\Basic Antivirus.deps.json
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\bin\Debug\net5.0-windows\Basic Antivirus.runtimeconfig.json
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\bin\Debug\net5.0-windows\Basic Antivirus.runtimeconfig.dev.json
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\bin\Debug\net5.0-windows\Basic Antivirus.dll
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\bin\Debug\net5.0-windows\ref\Basic Antivirus.dll
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\bin\Debug\net5.0-windows\Basic Antivirus.pdb
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic Antivirus.csproj.AssemblyReference.cache
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic_Antivirus.Form1.resources
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic Antivirus.csproj.GenerateResource.cache
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic Antivirus.GeneratedMSBuildEditorConfig.editorconfig
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic Antivirus.AssemblyInfoInputs.cache
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic Antivirus.AssemblyInfo.cs
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic Antivirus.csproj.CoreCompileInputs.cache
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic Antivirus.dll
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\ref\Basic Antivirus.dll
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic Antivirus.pdb
+N:\Eliott_Alderson\study\C#\Basic Antivirus (C#)\Basic Antivirus\obj\Debug\net5.0-windows\Basic Antivirus.genruntimeconfig.cache
